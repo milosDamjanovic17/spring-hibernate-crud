@@ -1,0 +1,34 @@
+
+
+
+
+
+##### Hibernate RECAP #####
+
+Hibernate is an Object-Relational Mapping (ORM) tool which is used to save the state of Java object into the database.
+
+
+It is one of the most frequently used JPA implementation.
+
+
+It is defined in org.hibernate package.
+
+
+It uses SessionFactory interface to create Session instances.
+
+
+It uses Session interface to create, read, and delete operations for instances of mapped entity classes. It behaves as a runtime interface between a Java application and Hibernate.
+
+
+
+It uses Hibernate Query Language (HQL) as an object-oriented query language to perform database operations.
+
+
+
+
+
+
+
+
+
+
